@@ -1,0 +1,6 @@
+{
+  "name": "com.aarquiesolutions.audioframework",
+  "displayName": "Audio Framework",
+  "version": "1.0.0",
+  "description": "Framework to play audio, including SFX, Background Music"
+}
